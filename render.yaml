@@ -2,7 +2,7 @@ services:
   - type: web
     name: pranav-salekar
     runtime: static
-    staticPublishPath: src/main/webapp
+    publishPath: src/main/webapp
     routes:
       - type: rewrite
         source: /*
