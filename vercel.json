@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/img/:file*", "destination": "/src/main/img/:file*" },
+    { "source": "/", "destination": "/src/main/webapp/trial.html" }
+  ]
+}

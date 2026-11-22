@@ -1,0 +1,29 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+
+# VS Code
+.vscode/
+
+# Python scripts
+*.py
+
+# PowerShell scripts
+*.ps1
+
+# Batch files
+*.bat
+
+# JavaScript utility scripts
+do_replacements.js
+
+# Temp files
+temp_*.txt
+
+# OS
+Thumbs.db
+.DS_Store
