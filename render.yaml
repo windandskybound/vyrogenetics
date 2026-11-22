@@ -1,9 +1,5 @@
 services:
   - type: web
-    name: pranav-salekar
+    name: vyrogenetics
     runtime: static
     publishPath: .
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
